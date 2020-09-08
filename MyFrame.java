@@ -5,7 +5,7 @@ import java.awt.event.*;
 class MyFrame extends JFrame {
 
   private JButton btnTutup  = new JButton("Close");
-  private JButton btnTambah = new JButton("Tambah");
+  private JButton btnTambah = new JButton("Nosure");
 
   private JTextField txtA = new JTextField();
   private JTextField txtB = new JTextField();
